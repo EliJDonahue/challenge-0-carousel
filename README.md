@@ -7,3 +7,8 @@ of The Silmarillion are legends deriving from a much deeper past, when Morgoth,
 the first Dark Lord, dwelt in Middle-earth, and the High Elves made war upon
 him for the recovery of the Silmarils
 
+## Solution
+
+See <https://elijdonahue.github.io/challenge-0-carousel/> for the live demo.
+
+I used vanilla JavaScript to update the background image of the carousel on an interval.
